@@ -76,6 +76,6 @@ public class wave : MonoBehaviour {
         float ww = (float)w;
         float hh = (float)h;
         w_text.text = "w: " + ww.ToString()+",h: " + hh.ToString();
-        w_text.text = "ver222222222";
+        w_text.text = "ver33333";
     }
 }
